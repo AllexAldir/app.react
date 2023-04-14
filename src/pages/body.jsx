@@ -16,7 +16,7 @@ export function Body() {
         <div className="info">
           <a href="#" className="d-block">Usuário</a>
         </div>
-      </div>
+      </div> 
       <div className="form-inline">
         <div className="input-group" data-widget="sidebar-search">
           <input className="form-control form-control-sidebar" type="search" placeholder="Search" aria-label="Search" />
